@@ -1,0 +1,164 @@
+[ 2016-08-21T23:21:56+08:00 ] /testSkillMaster/ | ERR: (ThinkException) 无法加载模块Index
+[ 2016-08-21T23:22:00+08:00 ] /testSkillMaster/ | ERR: (ThinkException) 无法加载模块Index
+[ 2016-08-21T23:22:01+08:00 ] /testSkillMaster/ | ERR: (ThinkException) 无法加载模块Index
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run CheckRoute Behavior [ RunTime:0.001959s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.002079s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001441s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001554s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --START--
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run LocationTemplate Behavior [ RunTime:0.002419s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.002550s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --START--
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ParseTemplate Behavior [ RunTime:0.015069s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015172s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --START--
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ContentReplace Behavior [ RunTime:0.001189s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run TokenBuild Behavior [ RunTime:0.001141s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000957s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowRuntime Behavior [ RunTime:0.004103s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007638s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --START--
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.001344s ]
+[ 2016-08-21T23:22:36+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.001433s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run CheckRoute Behavior [ RunTime:0.001831s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001958s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001395s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001481s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --START--
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run LocationTemplate Behavior [ RunTime:0.002171s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.002273s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --START--
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ParseTemplate Behavior [ RunTime:0.024276s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024391s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --START--
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ContentReplace Behavior [ RunTime:0.001228s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run TokenBuild Behavior [ RunTime:0.001302s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001022s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowRuntime Behavior [ RunTime:0.001138s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004933s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --START--
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.001141s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.001224s ]
+[ 2016-08-21T23:23:00+08:00 ] /testSkillMaster/index.php/Login/verify | ERR: (ThinkException) 非法操作verify
+[ 2016-08-21T23:23:02+08:00 ] /testSkillMaster/index.php/Login/checkAccount | ERR: (ThinkException) 非法操作checkAccount
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002064s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002191s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001656s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001744s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.005875s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.006005s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.024438s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024566s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.003171s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.004658s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000954s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.002499s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011646s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001262s ]
+[ 2016-08-21T23:25:43+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001348s ]
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.002109s ]
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.002250s ]
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001469s ]
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001555s ]
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_template ] --START--
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.002310s ]
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.002424s ]
+[ 2016-08-21T23:44:16+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.018670s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018786s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.001413s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.002065s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000980s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.001192s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005910s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_end ] --START--
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.001173s ]
+[ 2016-08-21T23:44:17+08:00 ] /testSkillMaster/index.php/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.001256s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run CheckRoute Behavior [ RunTime:0.002199s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.002345s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001311s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001396s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --START--
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run LocationTemplate Behavior [ RunTime:0.002126s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.002250s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --START--
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ParseTemplate Behavior [ RunTime:0.017829s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017938s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --START--
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ContentReplace Behavior [ RunTime:0.001132s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run TokenBuild Behavior [ RunTime:0.001194s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000939s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowRuntime Behavior [ RunTime:0.001207s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004711s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --START--
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.001576s ]
+[ 2016-08-21T23:44:26+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.001661s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run CheckRoute Behavior [ RunTime:0.002075s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.002220s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001661s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001746s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --START--
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run LocationTemplate Behavior [ RunTime:0.005143s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.005257s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --START--
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ParseTemplate Behavior [ RunTime:0.019029s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019164s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --START--
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ContentReplace Behavior [ RunTime:0.001458s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run TokenBuild Behavior [ RunTime:0.001725s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000983s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowRuntime Behavior [ RunTime:0.001253s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005663s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --START--
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.001210s ]
+[ 2016-08-21T23:44:34+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.001293s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run CheckRoute Behavior [ RunTime:0.001698s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001829s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001444s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001539s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --START--
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run LocationTemplate Behavior [ RunTime:0.002387s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.002523s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --START--
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ParseTemplate Behavior [ RunTime:0.017173s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017305s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --START--
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ContentReplace Behavior [ RunTime:0.001216s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run TokenBuild Behavior [ RunTime:0.001191s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000977s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowRuntime Behavior [ RunTime:0.001244s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004872s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --START--
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.001135s ]
+[ 2016-08-21T23:46:17+08:00 ] /testSkillMaster/index.php/Login/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.001217s ]
+[ 2016-08-21T23:46:18+08:00 ] /testSkillMaster/index.php/Login/verify | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:46:18+08:00 ] /testSkillMaster/index.php/Login/verify | INFO: Run CheckRoute Behavior [ RunTime:0.001724s ]
+[ 2016-08-21T23:46:18+08:00 ] /testSkillMaster/index.php/Login/verify | INFO: Tag[ route_check ] --END-- [ RunTime:0.001861s ]
+[ 2016-08-21T23:46:18+08:00 ] /testSkillMaster/index.php/Login/verify | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:46:18+08:00 ] /testSkillMaster/index.php/Login/verify | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001488s ]
+[ 2016-08-21T23:46:18+08:00 ] /testSkillMaster/index.php/Login/verify | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001588s ]
+[ 2016-08-21T23:46:20+08:00 ] /testSkillMaster/index.php/Login/verify/0.6286714810373558 | INFO: Tag[ route_check ] --START--
+[ 2016-08-21T23:46:20+08:00 ] /testSkillMaster/index.php/Login/verify/0.6286714810373558 | INFO: Run CheckRoute Behavior [ RunTime:0.001644s ]
+[ 2016-08-21T23:46:20+08:00 ] /testSkillMaster/index.php/Login/verify/0.6286714810373558 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001760s ]
+[ 2016-08-21T23:46:20+08:00 ] /testSkillMaster/index.php/Login/verify/0.6286714810373558 | INFO: Tag[ app_begin ] --START--
+[ 2016-08-21T23:46:20+08:00 ] /testSkillMaster/index.php/Login/verify/0.6286714810373558 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001339s ]
+[ 2016-08-21T23:46:20+08:00 ] /testSkillMaster/index.php/Login/verify/0.6286714810373558 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001424s ]
