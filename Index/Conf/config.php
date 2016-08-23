@@ -15,6 +15,13 @@ return array(
 
 
     'DEFAULT_THEME' => 'default', //默认主题
+
+    'URL_MODEL' => 1,
+
+    'TOKEN_ON' => false,	//关闭令牌功能
+
+    'ENCRYPTION_KET' => '122121102.',
+    'AUTO_LOGIN_TIME' => time() + 3600 * 24 * 7,
 );
 
 
