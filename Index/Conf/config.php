@@ -22,6 +22,10 @@ return array(
 
     'ENCRYPTION_KET' => '122121102.',
     'AUTO_LOGIN_TIME' => time() + 3600 * 24 * 7,
+    //图片上传类
+    'UPLOAD_MAX_SIZE' => 2000000,//最大上传类
+    'UPLOAD_PATH' => './Uploads/',//文件上传保存路径
+    'UPLOAD_EXTS' =>array('jpg','jpeg','gif','png'),//允许文件的上传后缀
 );
 
 
